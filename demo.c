@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main()
 {
-     printf("hello world i am param 1");
+     printf("hello world i am param 10");
 
      printf("hello world i am param 2");
 
