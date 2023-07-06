@@ -1,6 +1,6 @@
-// Write a programe to findout area of rectangle 
-// lenght * breath 
-#include<stdio.h>
+// Write a programe to findout area of rectangle
+// lenght * breath
+#include <stdio.h>
 void main()
 {
      float lenght = 0;
@@ -8,13 +8,13 @@ void main()
      float answer = 0;
 
      printf("Enter value of lenght ");
-     scanf("%f",&lenght);
+     scanf("%f", &lenght);
 
      printf("Enter value of breath ");
-     scanf("%f",&breath);
+     scanf("%f", &breath);
 
-     printf("\nthe value of lenght is %f and breath is %f ",lenght,breath);
+     printf("\nthe value of lenght is %f and breath is %f ", lenght, breath);
 
-     answer = lenght * breath ; 
-     printf("\nthe answer is %f ",answer);
+     answer = lenght * breath;
+     printf("\nthe answer is %f ", answer);
 }

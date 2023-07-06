@@ -1,0 +1,1 @@
+Write a programe to peform split of 3 digit number 
