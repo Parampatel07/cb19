@@ -1,1 +1,9 @@
 Write a programe to peform split of 3 digit number 
+
+if
+------------------------------
+Write a programe to check if the given month is feburary or not if feburary display message " this month has 28-29 days "
+
+Write a programe to findout wether the given variable a is greater than b or not if greater print message 'a is greater '
+
+Write a programe to display message "you have fever " if the temperature if above 100
