@@ -6,4 +6,10 @@ Write a programe to check if the given month is feburary or not if feburary disp
 
 Write a programe to findout wether the given variable a is greater than b or not if greater print message 'a is greater '
 
-Write a programe to display message "you have fever " if the temperature if above 100
+Write a programe to display message "you have fever " if the temperature if above 100.
+
+
+Write a programe to findout wether the given number is single digit or double digit 
+
+Write a prgoram to findout whether given year is milinium year or not.
+->1000,2000,3000,4000,5000
