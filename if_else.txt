@@ -70,9 +70,11 @@ Logical operator
 && - and 
 || - or 
 
+number = 10
+number2 = 20 
 
+number1 == 10 && number2 == 20 
 
-a==10 || b == 20 c = 30
 
 switch case
 ------------------------------
