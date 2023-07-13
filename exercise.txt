@@ -36,3 +36,7 @@ yearly income     tax rate
 >=8,00,000        30%  
 
 Write a programe to findout smallest out of given three variable without using and or and else if ladder 
+
+
+Write a programe to findout bmi of user and also find his/her category 
+https://www.vecteezy.com/vector-art/5905467-bmi-classification-chart-measurement-man-set-male-body-mass-index-infographic-with-weight-status-from-underweight-to-severely-obese-medical-body-mass-control-graph-vector-eps-illustration
