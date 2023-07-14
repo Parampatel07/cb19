@@ -40,3 +40,14 @@ Write a programe to findout smallest out of given three variable without using a
 
 Write a programe to findout bmi of user and also find his/her category 
 https://www.vecteezy.com/vector-art/5905467-bmi-classification-chart-measurement-man-set-male-body-mass-index-infographic-with-weight-status-from-underweight-to-severely-obese-medical-body-mass-control-graph-vector-eps-illustration
+
+
+Loop
+----------------------------------------
+Write a programe to print following pattern 
+1 , 2 , 4 ,6 ,8 ,10 ,12 ....8000
+
+Write a programe to print all odd number till 10000
+
+Write a programe to print following pattern
+2, 1, 3, 4, 7, 11, 18, 29, 47, 76, 123 .... 300
