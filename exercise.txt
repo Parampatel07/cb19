@@ -54,7 +54,6 @@ Write a programe to print following pattern
 
 https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
 
-
 1
 2 2
 3 3 3
