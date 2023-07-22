@@ -17,8 +17,7 @@ void main()
      temp = size - 3;
      for(flash = 0 ; flash < size-2 ; flash++)
      {
-          printf("\n");
-          printf("*");
+        
           for (count = 0; count < temp; count++)
           {
                printf(" ");
