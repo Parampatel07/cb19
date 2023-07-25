@@ -17,7 +17,7 @@ void main()
                flash++;
                printf("_");
           }
-          printf("%d",flash)
+          printf("%d",flash);
           printf("\n");
      }
      for (count = 1; count < 8; count++)
