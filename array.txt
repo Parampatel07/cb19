@@ -9,8 +9,8 @@ how to create array
 datatype array-name[size]
 
 example 
-int marks[14]
-float weights[7]
+int marks[14] ;  2 * 14 = 28
+float weights[7] ; 4 * 7 = 28
 
 how to store value into array 
 --------------------------------------
