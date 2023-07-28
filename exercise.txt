@@ -66,3 +66,17 @@ https://i1.faceprep.in/fp/articles/img/55984_1580817324.png
 array 
 ---------------------------------
 Write a programe to store 5 match runs for 1 player find average and total 
+
+
+Write a programe to store 5 match runs for 1 player find average and total arrange the runs in ascending order
+54
+233
+98
+20
+2
+
+2
+20
+54
+98
+233
