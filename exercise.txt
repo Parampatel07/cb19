@@ -69,14 +69,5 @@ Write a programe to store 5 match runs for 1 player find average and total
 
 
 Write a programe to store 5 match runs for 1 player find average and total arrange the runs in ascending order
-54
-233
-98
-20
-2
 
-2
-20
-54
-98
-233
+Write a programe to take input for 5 match goals for 5 player find total number of goal for each player and all player also find average for each match and all match 
