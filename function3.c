@@ -17,5 +17,4 @@ void main()
      printf("Enter value of number 2 ");
      scanf("%d",&number2);
      getSub(number1,number2);
-
 }

@@ -71,3 +71,11 @@ Write a programe to store 5 match runs for 1 player find average and total
 Write a programe to store 5 match runs for 1 player find average and total arrange the runs in ascending order
 
 Write a programe to take input for 5 match goals for 5 player find total number of goal for each player and all player also find average for each match and all match 
+
+
+function
+------------------------------------
+write a programe to create a menu driven calc 
+
+Write a programe to create a menu driven area calc given option for
+square,rectagle,cylinder,circle
