@@ -79,3 +79,14 @@ write a programe to create a menu driven calc
 
 Write a programe to create a menu driven area calc given option for
 square,rectagle,cylinder,circle
+
+square
+****************
+*              *
+*              *
+*              *              
+*              *
+*              *
+*              *
+*              *
+****************
